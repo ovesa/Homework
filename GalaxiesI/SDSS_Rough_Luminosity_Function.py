@@ -1,11 +1,11 @@
-y #!/usr/bin/env python3
+#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
 Created on Sun Sep 23 13:56:58 2018
 
 ASTR 555: Homework #3
 
-tudy the nearby galaxy population and construct a rough galaxy luminosity 
+study the nearby galaxy population and construct a rough galaxy luminosity 
 function for nearby galaxies using SDSS.
 
 @author: oanavesa
